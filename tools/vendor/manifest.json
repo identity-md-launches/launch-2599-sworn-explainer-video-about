@@ -1,0 +1,12 @@
+[
+  {
+    "file": "tools/vendor/ffmpeg-runtime.tar.xz",
+    "sha256": "d1cc9b79e5bd6be6886e9b566bbcc0dd522c1e4dbea6bf6c934572255d852736",
+    "source": "https://ffmpeg.org/releases/ffmpeg-7.0.2.tar.xz"
+  },
+  {
+    "file": "tools/vendor/pillow-runtime.tar.xz",
+    "sha256": "a86a04ebfa266d49be3c24a8646cf66015d8322c563b99e31eea08d64296c835",
+    "source": "https://pypi.org/project/pillow/11.3.0/"
+  }
+]
